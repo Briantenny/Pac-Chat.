@@ -9,15 +9,15 @@
 
 
 
-Pac chat is intended to provide a secure self server chat network,
-which ensure no remote storage of data between parties, it uses AES
-encryption for secured data transfer over public network.. This consist of
+Pac chat is a secure self server chat network,
+which ensure no remote storage of data is retained. It uses an AES
+encryption to secure data transfer over public network.. This consist of
 server and client, on one end a server but
 both have to still use the client script.
-This chat send data through and encryption tunnel, where a key know
-known by both parties is used to decrypt messages. Once the key is successful
-added the chat goes live and a back and forward communication is establish,
-and it stays on as long as the server stays up
+This chat sends data through an encryption tunnel, where a key
+known by both parties is used to decrypt the message. Once the key is successfully
+added, the chat goes live and communication is establish,
+it stays on as long as the server stays up
  The key can be changed in the Pac.conf file:-
 
 
