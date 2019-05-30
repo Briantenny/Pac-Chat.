@@ -16,6 +16,7 @@ print """
                * //*/      \\*_//\\   //____  (@)
 
 	messenger v 0.1 | Tk-ls
+	tennybriank@gmail.com
 
 """
 
