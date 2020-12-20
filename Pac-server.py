@@ -1,4 +1,4 @@
-#neuron_server
+#PAC-mini
 
 import ConfigParser
 import base64
